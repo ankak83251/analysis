@@ -1,1 +1,1 @@
-print('new file')
+print('mój najlepszy nauczyciel')
