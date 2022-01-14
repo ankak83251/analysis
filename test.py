@@ -1,1 +1,2 @@
-print('Czesc jestem Janusz edition')
+def print_hw():
+    print('Czesc jestem Janusz edition')
